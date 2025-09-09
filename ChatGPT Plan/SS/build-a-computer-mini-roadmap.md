@@ -1,6 +1,6 @@
 # Build‑a‑Computer Learning Plan (6‑Week Mini‑Roadmap)
 
-> A playful‑yet‑rigorous, **simulation‑first** path to understand how computers work—from **bits and gates** to a **tiny CPU you design** and **program**—with optional hardware/FPGA detours.
+> A playful-yet-rigorous path to understand how computers work—from **bits and gates** to a **tiny CPU you design** and **program**—with options to go hands-on in hardware or FPGAs.
 
 **Time:** ~10–12 hrs/week • **Prereqs:** Basic programming comfort (variables/loops/functions) • **Outcomes:** Design a minimal CPU, write simple assembly, and explain the hardware–software stack end to end.
 
@@ -46,7 +46,7 @@
 - Draft a minimal **instruction set** and CPU **datapath** diagram.
 
 **Do**
-- **Course:** Nand2Tetris (Part I) — Projects 1–5 (CPU in **Project 5**; assembler is **Project 6**).
+- **Course:** Nand2Tetris (Part I) — Projects 1–5 (focus on **Project 5: CPU**).
 - **Play:** *MHRD* up to the first CPU spec level (good HDL thinking practice).
 - **Design:** Draft your instruction formats and control signals (ADD, LOAD, STORE, JMP, JE).
 
